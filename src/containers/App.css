@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.heading {
+  display: block;
+  background-color: slategrey;
+  color: white;
+  align-items: center;
+  width: 400px;
+  height: 50px;
+  font-size: 35px;
+  padding: 10px 10px;  
+}

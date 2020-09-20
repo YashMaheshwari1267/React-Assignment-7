@@ -1,0 +1,22 @@
+.weather-now {
+  display: block;
+  background-color: antiquewhite;
+  color: black;
+  align-items: center;
+  width: 400px;
+  height: 150px;
+  padding: 10px 10px;  
+}
+
+.place {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.current-temp {
+  font-size: 36px;
+}
+
+.weather-type {
+  font-size: 22px;
+}

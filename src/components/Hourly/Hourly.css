@@ -1,0 +1,9 @@
+.weather-hourly {
+  display: block;
+  background-color: whitesmoke;
+  color: black;
+  align-items: center;
+  width: 400px;
+  height: 150px;
+  padding: 10px 10px;
+}
